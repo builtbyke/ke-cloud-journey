@@ -3,6 +3,11 @@
 ## Purpose
 This repository tracks my transition into advanced Cloud Systems Administration. It servers as a [techncial ledger](https://github.com/builtbyke/ke-cloud-journey/blob/main/Milestone%20Journal.md) for my Intune lab, automation scripts, and cloud infrastructure projects.
 
+## Current Lab Hardware (as of 3/7/2026)
+- Macbook M1 Pro (Personal Device)
+- Lenovo T460 running Win 11 Pro
+- **Want to add in the future** Andrioid Device and Linux Device
+
 ## 🛠 Intune Lab Focus
 My current focus is mastering **Modern Endpoint Management** with a focus on:
 - **Win32 App Packaging:** Custom deployments using the [Intune Content Prep Tool](https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool).
