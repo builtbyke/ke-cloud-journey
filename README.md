@@ -1,4 +1,4 @@
-# KE Cluud Journey ☁️
+# KE Cloud Journey ☁️
 
 ## Purpose
 This repository tracks my transition into advanced Cloud Systems Administration. It servers as a [techncial ledger](https://github.com/builtbyke/ke-cloud-journey/blob/main/Milestone%20Journal.md) for my Intune lab, automation scripts, and cloud infrastructure projects.
