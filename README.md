@@ -6,6 +6,7 @@ This repository tracks my transition into advanced Cloud Systems Administration.
 ## Current Lab Hardware (as of 3/7/2026)
 - Macbook M1 Pro (Personal Device)
 - Lenovo T460 running Win 11 Pro
+- Mini PC (ACEMAGICIAN, w/64gb RAM, 2TB SDD, Ryzen 7 5700U running ESXi 8.0.3)
   
 **Want to add in the future:**
 - Andrioid Device
