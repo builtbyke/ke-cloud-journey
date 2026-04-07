@@ -1,4 +1,6 @@
 # Milestone Journal
+- **April 6, 2026:** Modified the Windows Autopilot Configuration - Added Enrollment Status Page; Added another Windows 11 Pro VM
+  
 - **April 5, 2026:** Created a Security Baseline Profile for Windows 10 and later; leveraged Gemini and MgGraph to create a [script](https://github.com/builtbyke/ke-cloud-journey/blob/main/scripts/powershell/Export-IntuneEndpointSecurityBaselineSettings.ps1) that exports the Baseline config and converts it to [JSON](https://github.com/builtbyke/ke-cloud-journey/blob/main/configs/Direct_Graph_Baseline.json); Created a [google sheet](https://docs.google.com/spreadsheets/d/1LZDL1nAFu4WAKgq0AAAeezCvxZFl0G2rcQlBfvrIuz0/edit?usp=sharing) to track my progress on this lab.
 
 - **March 28, 2026:** Created an Endpoint Security policy for BitLocker Disk Encryption; Configured Recovery Password Rotation for Entra ID-joined devices and Administrative Templates for Operating System drive encryption; Created LAPS Configuration Profile
