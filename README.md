@@ -17,7 +17,6 @@ My current focus is mastering **Modern Endpoint Management** with a focus on:
 - **Win32 App Packaging:** Custom deployments using the [Intune Content Prep Tool](https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool).
 - **Proactive Remediations:** Utilizing PowerShell for self-healing endpoint logic.
 - **Automation:** Leveraging Bash and PowerShell to streamline administrative tasks.
-- **Infrastructure as Code:** Documenting configurations and policies for repeatable deployments.
 - **Zero-Touch Provisioning:** Implementing Windows Autopilot (OOBE) for seamless, hands-off hardware deployments.
 - **Endpoint Hardening:** Securing devices using Microsoft Security Baselines, ASR rules, and LAPS.
 
