@@ -6,7 +6,7 @@
 The below modules need to be installed in order to run this script:
 
 1. Install-Module -Name Microsoft.Graph
-2. Install-Module -Name Import-Excel
+2. Install-Module -Name ImportExcel
 
 Make sure you are connected to Microsoft Graph, if not, use this command and authenticate:
 
